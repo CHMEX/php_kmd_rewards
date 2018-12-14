@@ -59,6 +59,7 @@ echo json_encode($response);
 /*
 -- Calculation by James
 -- https://github.com/jl777/komodo/blob/master/src/komodo_interest.h
+-- https://github.com/LedgerHQ/ledger-nano-s/issues/21
 
 /******************************************************************************
  * Copyright © 2014-2018 The SuperNET Developers.                             *
